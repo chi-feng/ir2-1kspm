@@ -1,3 +1,8 @@
 ## Industrial Revolution 2 - 1kspm from ore
 
-Leaflet map generated using https://github.com/SenorPez/factorio-leaflet-maps
+<a href="https://chi-feng.github.io/ir2-1kspm/?-1.6563,29.164,7">View interactive map</a>
+<a href="https://chi-feng.github.io/ir2-1kspm/?-1.6563,29.164,7"><img src="https://user-images.githubusercontent.com/336681/113256716-2976d680-92fc-11eb-9992-cd1f59eff360.png" /></a>
+
+Tools used
+- https://github.com/SenorPez/factorio-leaflet-maps
+- [Factoriolab calculator](https://factoriolab.github.io/list?z=eJxVkclWMjsURt.GAWvpAnuHVCXkNKlSQFCZsLDvFXsd7Ge.WNzB76D2zpecdJXn3rDVabfb09ReOl4t3VkqbC990Gjl1FZu0nqrMw17C5SLr7ezQLz8TTcLFLZAmv0ObPzi4DeOfwcWdSsv1aTV6tJtdad5q9UqKVvd3zztrbZm00Gr1epPy9uFbFrMGnUW1OlTw.eGbw3nDYvxQnEax00KO0tZozxplEKzI8tdu.-G4k-4WJQvlJfypXpLjf6tzNdNZ7z4M.286eztNco3jcoFfRpf.i2s.hyh-nOGvPtnybNmkWq.UbhvrlP1l.o.Xf5q5XLxHourNT9zejjNLWta8-nLymtro7XOFtsUmxQ7FIEiUiQKoVCKPsU9xSPFE8UzxZziheKd4oPik-KbcvFGgTJSJkqhVEqjzJR9ygHlkPKQckQ5pjyiPKY8oZxRnhEIbcI6QQlOyISKMCQcEkaEMeGIcEw4IUwIM8IpYTHpnDAnvBM-CF-Eb8IPkbhL7BGVaEQnZmJF3CceEPvEAXFIPCLOiJfEe-ID8ZH4RHwmzomf9NboFfRKeoFepCekVdIaqU3qkNZJG6RN0hZpm7RD2iXtkQpSIi2KlWQkJ2VSRapJ-6QDUp80IA1Jh6QRaUw6Ih2TTkgT0ox0SjojnZMuSJekK9I16YZ0S7oj3ZMeSI-kJ9IzaU56Ib2S3kjvpA.SJ-mL9E36QVaRNaSNdJB1ZAPZRLaQbWQH2UX2kC5SICUSkIj0kIQIooghjmSkQmpkHzlA-sgAGSKHyAgZI0fIMXKCTJAZcoqcIefIBXKJXCHXyA1yi9wh98gD8og8Ic.IHHlBXpE35B35QD6RL-Qb-UFX0TW0jXbQdXQD3US30G10B91F99AuWqAlGtCI9tCECqqooY5mtEJrdB89QPvoAB2ih-gIHaNH6DF6gk7QGXqKnqHn6AV6iV6h1-gNeoveoffoA.qIPqHP6Bx9QV.RN.Qd.UA.0S.0G.3BVrE1rI11sHVsA9vEtrBtbAfbxfawLlZgJRawiPWwhAmmmGGOZazCamwfO8D62AAbYofYCBtjR9gxdoJNsBl2ip1h59gFdoldYdfYDXaL3WH32AP2iD1hz9gce8FesTfsHfvAPrEv7Bv7wVfxNbyNd.B1fAPfxLfwbXwH38X38C5e4CUe8Ij38IQLrrjhjme8wmt8Hz.A-.gAH-KH-Agf40f4MX6CT.AZfoqf4ef4BX6JX-HX-A1-i9.h9.gD.og.4c.4HH.BX.E3.B3.wD.xL.wb.yG3yR3yJnmLvEPeI3fJBbkkB3Ik98iJLGQlG9nJmVyRa.I--YDcJw.IQ.IheUQek7-p1qg2qDaptqi2qQZUI6ox1QnVhGpGdUp1RfVJ9U3dpS6oS-pAHal71IlaqJXaqDN1RV1Tj6gnDLjmhjvueeCR55WP9f8ApDCLnQ__)
